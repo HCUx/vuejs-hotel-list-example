@@ -1,0 +1,121 @@
+[
+  {
+    "hotelId": "1",
+    "id": "1",
+    "reviewPoint": 7.5,
+    "email": "asdasd1@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "1",
+    "id": "2",
+    "reviewPoint": 8.0,
+    "email": "asdasd2@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "1",
+    "id": "3",
+    "reviewPoint": 8.3,
+    "email": "asdasd3@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "1",
+    "id": "4",
+    "reviewPoint": 8.1,
+    "email": "asdasd4@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "1",
+    "id": "5",
+    "reviewPoint": 8.6,
+    "email": "asdasd5@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "2",
+    "id": "6",
+    "reviewPoint": 8.2,
+    "email": "asdasd@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "2",
+    "id": "7",
+    "reviewPoint": 8.5,
+    "email": "asdasd7@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "2",
+    "id": "8",
+    "reviewPoint": 9.2,
+    "email": "asdasd8@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "2",
+    "id": "9",
+    "reviewPoint": 9.0,
+    "email": "asdasd9@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "2",
+    "id": "10",
+    "reviewPoint": 6.0,
+    "email": "asdasd10@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "11",
+    "reviewPoint": 8.3,
+    "email": "asdasd11@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "12",
+    "reviewPoint": 8.6,
+    "email": "asdasd12@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "13",
+    "reviewPoint": 8.2,
+    "email": "asdasd13@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "14",
+    "reviewPoint": 8.7,
+    "email": "asdasd14@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "15",
+    "reviewPoint": 7.9,
+    "email": "asdasd15@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "16",
+    "reviewPoint": 6.9,
+    "email": "asdasd16@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  },
+  {
+    "hotelId": "3",
+    "id": "17",
+    "reviewPoint": 8.2,
+    "email": "asdasd17@hotmail.com",
+    "body": "aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd aaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbcvccccccccccccccccdddddddddddddd"
+  }
+]

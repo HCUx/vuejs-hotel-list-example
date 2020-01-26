@@ -1,0 +1,26 @@
+[
+  {
+    "hotelId": "1",
+    "name": "Stratosphere Las Vegas",
+    "price": "200$",
+    "email": "stratospherehotel-nevada@booking.com",
+    "phone": "+1 702-380-7777",
+    "thumbnail_url": "https://imagessl.etstur.com/files/images/hotelImages/integration/TR/211211/l/eyzcckanx5rqzmthiqxk.jpg"
+  },
+  {
+    "hotelId": "2",
+    "name": "Velario Hotel",
+    "price": "180$",
+    "email": "velariohotel@nevada@booking.com",
+    "phone": "+1 702-380-8888",
+    "thumbnail_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/f1/a7/77/comca-manzara-hotels.jpg"
+  },
+  {
+    "hotelId": "3",
+    "name": "Disneyland Hotel",
+    "price": "320$",
+    "email": "disneylandhotel-nevada@booking.com",
+    "phone": "+1 702-380-9999",
+    "thumbnail_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/37/f3/a7/hotel-comca-manzara.jpg"
+  }
+]
